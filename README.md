@@ -52,7 +52,9 @@ Detalhes:
 - O app limita varreduras a 4096 hosts por segurança.
 - Campos do scan: IP inicial, IP final e máscara de rede (calculada automaticamente pelo front-end).
 
-<img width="1365" height="767" alt="Captura de tela 2026-04-14 085645" src="https://github.com/user-attachments/assets/5a7a0fe3-2172-4e22-86cc-3bb0ee5b6432" />
+
+<img width="1365" height="721" alt="Captura de tela 2026-04-14 085645" src="https://github.com/user-attachments/assets/b5163f93-02c6-4dd3-bbe0-a32b7108902f" />
+
 
 
 
